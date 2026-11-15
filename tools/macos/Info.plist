@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>io.github.burntroses.LivePhotoImporter</string>
+<key>CFBundleName</key><string>Live Photo Importer</string>
+<key>CFBundleDisplayName</key><string>Live Photo Importer</string>
+<key>CFBundleExecutable</key><string>LivePhotoImporter</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPhotoLibraryUsageDescription</key><string>将你选择的一对图片和视频保存为系统 Live Photo。</string>
+<key>NSPhotoLibraryAddUsageDescription</key><string>仅在你点击存入照片图库后，添加选定的 Live Photo，不读取其他照片。</string>
+</dict></plist>

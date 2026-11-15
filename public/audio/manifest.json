@@ -1,0 +1,124 @@
+{
+  "recordings": [
+    {
+      "id": "room",
+      "label": "安静室内",
+      "file": "room.mp3",
+      "author": "visionear",
+      "title": "Room tone Very quiet Small apartment room loopable edlarez vsnr.wav by visionear",
+      "source": "https://freesound.org/people/visionear/sounds/565535/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "wind",
+      "label": "轻风",
+      "file": "wind.mp3",
+      "author": "joseph.larralde",
+      "title": "wind_gusts_soft.wav by joseph.larralde",
+      "source": "https://freesound.org/people/joseph.larralde/sounds/352721/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "street",
+      "label": "街道人声",
+      "file": "street.mp3",
+      "author": "Fester993",
+      "title": "City Street Ambience.wav by Fester993",
+      "source": "https://freesound.org/people/Fester993/sounds/564439/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "cafe",
+      "label": "咖啡馆",
+      "file": "cafe.mp3",
+      "author": "evsecrets",
+      "title": "Cafe ambient sound.mp3 by evsecrets",
+      "source": "https://freesound.org/people/evsecrets/sounds/332271/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "rain",
+      "label": "细雨",
+      "file": "rain.mp3",
+      "author": "seth-m",
+      "title": "light rain ambience by seth-m",
+      "source": "https://freesound.org/people/seth-m/sounds/270349/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "ocean",
+      "label": "海浪",
+      "file": "ocean.mp3",
+      "author": "Noted451",
+      "title": "Ocean Waves.wav by Noted451",
+      "source": "https://freesound.org/people/Noted451/sounds/531015/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "forest",
+      "label": "森林鸟鸣",
+      "file": "forest.mp3",
+      "author": "RealSquink",
+      "title": "Forest Day - Bird Chirps, Insects by RealSquink",
+      "source": "https://freesound.org/people/RealSquink/sounds/788118/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "traffic",
+      "label": "城市车流",
+      "file": "traffic.mp3",
+      "author": "kyles",
+      "title": "Thailand traffic wide around city square Bangkok, foreign cars, tuk tuk motorcycle taxis, motorcycles.flac by kyles",
+      "source": "https://freesound.org/people/kyles/sounds/177745/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "night",
+      "label": "夜晚虫鸣",
+      "file": "night.mp3",
+      "author": "visionear",
+      "title": "Quiet calm night with soft crickets distant freeway ambience car rev at middle.wav by visionear",
+      "source": "https://freesound.org/people/visionear/sounds/550313/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "library",
+      "label": "图书馆",
+      "file": "library.mp3",
+      "author": "xkeril",
+      "title": "Quiet library ambience by xkeril",
+      "source": "https://freesound.org/people/xkeril/sounds/620683/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "subway",
+      "label": "地铁车厢",
+      "file": "subway.mp3",
+      "author": "Breviceps",
+      "title": "Subway Riding in Vienna by Breviceps",
+      "source": "https://freesound.org/people/Breviceps/sounds/462658/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "shutter",
+      "label": "机械快门",
+      "file": "shutter.mp3",
+      "author": "Kodack",
+      "title": "Camera Shutter Click by Kodack",
+      "source": "https://freesound.org/people/Kodack/sounds/271010/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

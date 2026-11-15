@@ -1,0 +1,33 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+  mac-importer:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sh tools/macos/build.sh "$RUNNER_TEMP/Live Photo Importer.app"
+      - run: ditto -c -k --sequesterRsrc --keepParent "$RUNNER_TEMP/Live Photo Importer.app" "$RUNNER_TEMP/Live-Photo-Importer-macOS.zip"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mac-importer
+          path: ${{ runner.temp }}/Live-Photo-Importer-macOS.zip
