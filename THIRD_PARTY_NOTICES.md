@@ -11,7 +11,7 @@
 | fflate | 0.8.2 | © 2023 Arjun Barrett | [MIT](licenses/fflate-MIT.txt) | [上游](https://github.com/101arrowz/fflate)、[0.8.2 包](https://registry.npmjs.org/fflate/-/fflate-0.8.2.tgz) |
 | gifenc | 1.0.3 | © 2017 Matt DesLauriers | [MIT](licenses/gifenc-MIT.txt) | [上游](https://github.com/mattdesl/gifenc)、[1.0.3 包](https://registry.npmjs.org/gifenc/-/gifenc-1.0.3.tgz) |
 | @ffmpeg/ffmpeg（worker） | 0.12.15 | © 2019 Jerome Wu | [MIT](licenses/ffmpeg-wasm-MIT.txt) | [v12.15](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/v12.15/packages/ffmpeg) |
-| @mediapipe/tasks-vision | 0.10.32 | Google LLC / The MediaPipe Authors | [Apache-2.0 及上游附带声明](licenses/mediapipe-Apache-2.0.txt) | [v0.10.32](https://github.com/google-ai-edge/mediapipe/tree/v0.10.32/mediapipe/tasks/web)、[0.10.32 包](https://registry.npmjs.org/@mediapipe/tasks-vision/-/tasks-vision-0.10.32.tgz) |
+| @mediapipe/tasks-vision | 0.10.21 | Google LLC / The MediaPipe Authors | [Apache-2.0 及上游附带声明](licenses/mediapipe-Apache-2.0.txt) | [v0.10.21](https://github.com/google-ai-edge/mediapipe/tree/v0.10.21/mediapipe/tasks/web)、[0.10.21 包](https://registry.npmjs.org/@mediapipe/tasks-vision/-/tasks-vision-0.10.21.tgz) |
 
 `mediabunny` 的 MPL-2.0 覆盖源码可从上表版本包内的 `src/` 免费取得、修改和再分发。
 
@@ -55,7 +55,7 @@ FFmpeg 版权属于 FFmpeg developers 及各源文件列出的贡献者；上述
 
 ## MediaPipe WASM 与模型
 
-`@mediapipe/tasks-vision@0.10.32` 的 WASM / loader 来自 [unpkg](https://unpkg.com/@mediapipe/tasks-vision@0.10.32/wasm/) 或 [jsDelivr](https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.32/wasm/)，采用 [Apache-2.0](licenses/mediapipe-Apache-2.0.txt)。
+`@mediapipe/tasks-vision@0.10.21` 的 WASM / loader 来自 [unpkg](https://unpkg.com/@mediapipe/tasks-vision@0.10.21/wasm/) 或 [jsDelivr](https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.21/wasm/)，采用 [Apache-2.0](licenses/mediapipe-Apache-2.0.txt)。
 
 Google 提供的模型均采用 Apache-2.0，原始文件与模型卡如下：
 

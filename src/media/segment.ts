@@ -2,8 +2,7 @@ import type { InteractiveSegmenter } from '@mediapipe/tasks-vision';
 import { buildDepthLayersFromMask, type DepthLayers } from '../core/depth';
 import { boundsFromPoses, poseDetector, resource, visionFiles } from './subject';
 
-/** Pinned model for the installed MediaPipe 0.10.32 API. The newer v2 model
- * uses a different stateful API and is not interchangeable with this one.
+/** MagicTouch v1 requires the InteractiveSegmenterGraph API in MediaPipe 0.10.21.
  * Model card: https://storage.googleapis.com/mediapipe-assets/Model%20Card%20MagicTouch.pdf
  * Model licence: Apache-2.0. Only static model/WASM resources are downloaded.
  */

@@ -7,7 +7,7 @@ interface Detector { detect(image: HTMLCanvasElement): PoseResult }
 interface FaceResult { detections: { boundingBox?: { originX: number; originY: number; width: number; height: number } }[] }
 interface FaceTask { detect(image: HTMLCanvasElement): FaceResult }
 interface WasmFiles { wasmLoaderPath: string; wasmBinaryPath: string }
-const VERSION = '0.10.32';
+const VERSION = '0.10.21';
 const MODELS = {
   pose: 'https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task',
   face: 'https://storage.googleapis.com/mediapipe-models/face_detector/blaze_face_short_range/float16/1/blaze_face_short_range.tflite',
